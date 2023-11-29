@@ -1,0 +1,14 @@
+00:02:42	Uma Shankar:	yes
+00:03:03	Uma Shankar:	ok
+00:03:23	Uma Shankar:	share your screen sir
+00:03:32	Uma Shankar:	not visible
+00:06:48	Uma Shankar:	by using user data we can install all docker sonar nexus
+00:06:58	V Cube Software:	yes
+00:07:03	Uma Shankar:	ok
+00:13:48	Uma Shankar:	ok
+00:17:14	Uma Shankar:	temurin
+00:18:04	Uma Shankar:	owasp
+00:26:48	Uma Shankar:	secret text
+01:07:37	Uma Shankar:	trivy and cloud bee why do we use
+01:10:19	Sai:	docker image scanner
+01:10:27	Sai:	topic not yet completed
